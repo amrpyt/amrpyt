@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Amr Emad — AI Systems Engineer</title>
+<desc id="desc">A custom teal and blue engineering banner with a code window illustration.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08111F"/><stop offset="1" stop-color="#10243A"/></linearGradient>
+<radialGradient id="aura"><stop offset="0" stop-color="#0CA5A4" stop-opacity=".25"/><stop offset="1" stop-color="#0CA5A4" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#F2F9FF" opacity=".065"/></pattern>
+<linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#8BB8FF"/></linearGradient>
+<clipPath id="clip"><rect x="1" y="1" width="1198" height="368" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect x="1" y="1" width="1198" height="368" rx="24" fill="url(#bg)" stroke="#27465E" stroke-width="2"/>
+<rect width="1200" height="370" fill="url(#grid)"/>
+<circle cx="1060" cy="-20" r="375" fill="url(#aura)"/>
+<circle cx="345" cy="365" r="240" fill="url(#aura)" opacity=".36"/>
+<g fill="none" stroke="#5EEAD4" stroke-width="1.2" opacity=".16">
+<path d="M14 280 H65 V246 H124"/><path d="M950 15 V34 H1175 V103"/><path d="M1100 346 V316 H1180"/><circle cx="124" cy="246" r="4"/><circle cx="1175" cy="103" r="4"/>
+</g>
+<path d="M66 66 H105" stroke="url(#stroke)" stroke-width="5" stroke-linecap="round"/>
+<text x="120" y="72" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3.5" fill="#5EEAD4">SOFTWARE ENGINEERING / APPLIED AI</text>
+<text x="64" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="83" font-weight="800" letter-spacing="-2.5" fill="#F2F9FF">AMR EMAD<tspan fill="#5EEAD4">.</tspan></text>
+<text x="68" y="210" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2.6" fill="#F2F9FF">AI SYSTEMS ENGINEER</text>
+<text x="68" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#9CB5C8">Building intelligent products that solve</text>
+<text x="68" y="286" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#9CB5C8">real problems — from idea to production.</text>
+<g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing=".8">
+<rect x="68" y="309" rx="10" width="113" height="31" fill="#19384A" stroke="#27465E"/><text x="89" y="330" fill="#B6F7E9">AI AGENTS</text>
+<rect x="191" y="309" rx="10" width="133" height="31" fill="#19384A" stroke="#27465E"/><text x="212" y="330" fill="#B6F7E9">AUTOMATION</text>
+<rect x="334" y="309" rx="10" width="116" height="31" fill="#19384A" stroke="#27465E"/><text x="356" y="330" fill="#B6F7E9">FULL-STACK</text>
+</g>
+<g>
+<rect x="720" y="40" width="422" height="291" rx="19" fill="#0D2032" stroke="#27465E" stroke-width="1.7"/>
+<path d="M720 99 H1142" stroke="#27465E" stroke-width="1.5"/>
+<circle cx="747" cy="70" r="6" fill="#F87171"/><circle cx="769" cy="70" r="6" fill="#FBBF24"/><circle cx="791" cy="70" r="6" fill="#34D399"/>
+<text x="833" y="77" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CB5C8">engineer.ts</text>
+<g font-family="Consolas, Menlo, monospace" font-size="18">
+<text x="747" y="143" fill="#CCDFEA"><tspan fill="#8BB8FF">const</tspan> engineer = {</text>
+<text x="770" y="184" fill="#CCDFEA">focus: <tspan fill="#5EEAD4">"AI systems"</tspan>,</text>
+<text x="770" y="225" fill="#CCDFEA">mindset: <tspan fill="#5EEAD4">"build &amp; ship"</tspan>,</text>
+<text x="770" y="266" fill="#CCDFEA">impact: <tspan fill="#5EEAD4">"real-world"</tspan></text>
+<text x="747" y="306" fill="#CCDFEA">}; <tspan fill="#9CB5C8">// always improving</tspan></text>
+</g>
+</g>
+</g>
+</svg>
